@@ -1,6 +1,30 @@
 # tugidigi-txtdata
 次世代デジタルライブラリーに搭載されているテキストデータを公開しています。
 
+#テキストファイルの命名ルール
+
+(国立国会図書館デジタルコレクションのPID)_(コマ番号).txt
+
+例えば、
+
+805068_6.txt
+
+であれば、対応する資料の国立国会図書館デジタルコレクションのURLは、
+http://dl.ndl.go.jp/info:ndljp/pid/805068
+
+の6コマ目、となります。
+
+PIDと資料のメタデータの対応については、
+
+国立国会図書館デジタルコレクション書誌情報
+(https://www.ndl.go.jp/jp/dlib/standards/opendataset/index.html#opendataset01)
+
+の、「インターネット公開図書資料」
+(http://dl.ndl.go.jp/files/dataset/dataset_201907_t_internet.zip)
+
+等をご参照ください。
+
+
 ## 日本十進分類法(NDC)6類(産業分野)資料
 
 以下のURLからダウンロード可能です。
