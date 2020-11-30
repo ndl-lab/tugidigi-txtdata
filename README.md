@@ -25,7 +25,6 @@ PIDと資料のメタデータの対応については、
 
 等をご参照ください。
 
-
 ## 日本十進分類法(NDC)6類(産業分野)資料
 
 以下のURLからダウンロード可能です。
@@ -49,3 +48,6 @@ PIDと資料のメタデータの対応については、
 運輸、交通(NDC中分類68) https://lab.ndl.go.jp/dataset/txtdata/68.zip
 
 通信(NDC中分類69) https://lab.ndl.go.jp/dataset/txtdata/69.zip
+
+## データセットの権利
+「PDM（パブリック・ドメイン・マーク）」&lt; https://creativecommons.org/publicdomain/mark/1.0/deed.ja &gt;
