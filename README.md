@@ -49,5 +49,5 @@ PIDと資料のメタデータの対応については、
 
 通信(NDC中分類69) https://lab.ndl.go.jp/dataset/txtdata/69.zip
 
-## データセットの権利
+## テキストデータの権利
 「PDM（パブリック・ドメイン・マーク）」&lt; https://creativecommons.org/publicdomain/mark/1.0/deed.ja &gt;
